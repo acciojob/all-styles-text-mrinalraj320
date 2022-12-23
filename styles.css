@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-.container{
+div .container{
     padding: 10px;
     width: 200px;
     background: purple;
     border-left: 5px solid green;
 }
 #heading{
-    font-size: 10px;
+    font-size: 20px;
     color: white;
 }
